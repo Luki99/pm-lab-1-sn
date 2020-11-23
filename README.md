@@ -21,7 +21,7 @@ Odpowiedź:  Zmiana kolejności połączenia diody LED i rezysora nie ma znaczen
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Pętle sa wymienne i można je zastępować, jednak realizacja niektórych zadań za pomocą niektórych pętli może być znacznie bardziej rozbudowana i skomplikowana.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
