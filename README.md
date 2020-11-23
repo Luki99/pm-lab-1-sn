@@ -25,11 +25,11 @@ Odpowiedź:  Pętle sa wymienne i można je zastępować, jednak realizacja niek
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Niedogodne dla kierowców mogą być nagłe zmiane świateł z zielonego na zielone, ponieważ wymusza to gwałotwne hamowanie
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
