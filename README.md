@@ -17,7 +17,7 @@ Odpowiedź:  Prgoram powoduje zmianę stanu diody L, przez co dioda świeci.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  Zmiana kolejności połączenia diody LED i rezysora nie ma znaczenia.
+Odpowiedź:  Zmiana kolejności połączenia diody LED i rezysora nie ma znaczenia
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
