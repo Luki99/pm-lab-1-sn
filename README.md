@@ -33,7 +33,7 @@ Odpowiedź:  Niedogodne dla kierowców mogą być nagłe zmiane świateł z ziel
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
