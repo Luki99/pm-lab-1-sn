@@ -6,7 +6,7 @@ Wersja: v1.0
 Data:   23.10.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Łukasz Ginalski  
+Imię i nazwisko studenta:   Lukasz Ginalski  
 Numer albumu:               72528  
 Grupa studencka:            WEL18DE1S1
 
